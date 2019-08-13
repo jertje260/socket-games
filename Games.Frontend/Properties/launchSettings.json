@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dotnet-angular-websockets": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
